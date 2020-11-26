@@ -1,4 +1,7 @@
-# text-summarizer
+Data Preprocess:
+Kaggle dataset is preprocessed to get data files containing reviews pertaining to specific product.
+A sample of this has been included in the food-reviews-sample-data folder. 
+
 To execute Lsa :
 Required Libraries:
 1. Python3
