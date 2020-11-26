@@ -74,7 +74,7 @@ class contribute:
 
 if __name__=="__main__": 
     sc = SparkContext(appName = 'TextRank')#,master = 'local',  pyFiles = ['trhelp.py', 'dataprep.py'])
-    path = "/Users/thejashreekunam/Documents/attachments/B0033YXSHW.txt"
+    path = "/Users/divyarshakoduri/Desktop/summarizer-master/B000NA8CWK.txt"
     num_iterations = 10
     sentence_count = 10
 
